@@ -1,0 +1,7 @@
+from django.apps import AppConfig
+
+
+class {{ app_name }}App(AppConfig):
+    default_auto_field = ""
+    name = ""
+    verbose_name = ""
